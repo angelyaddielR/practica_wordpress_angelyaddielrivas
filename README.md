@@ -12,5 +12,7 @@ En la pagina también he implementado un logo de del noticiero que publica las n
 ![Logo de Markdown](/imagen3.png)
 
 En la pagina he agregado un puglin llamado "polylang" que su función es traducir la pagina automaticamente.
-
 ![Logo de Markdown](/imagen4.png)
+
+He agregado varios usuarios con diferentes roles en la pagina web, roles como admibistrador, colaborador, suscriptor, editor.
+![Logo de Markdown](/imagen5.png)
