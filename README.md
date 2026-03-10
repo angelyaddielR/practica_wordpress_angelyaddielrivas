@@ -23,3 +23,7 @@ He agregado varios usuarios con diferentes roles en la pagina web, roles como ad
 #  Información sobre nosotros
 ![Logo de Markdown](/imagen7.png)
 
+# Mapa totalmente funcinal
+
+
+
