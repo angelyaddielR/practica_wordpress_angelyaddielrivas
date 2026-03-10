@@ -16,3 +16,6 @@ En la pagina he agregado un puglin llamado "polylang" que su función es traduci
 
 He agregado varios usuarios con diferentes roles en la pagina web, roles como admibistrador, colaborador, suscriptor, editor.
 ![Logo de Markdown](/imagen5.png)
+
+# Apartados de contactos
+![Logo de Markdown](/imagen6.png)
