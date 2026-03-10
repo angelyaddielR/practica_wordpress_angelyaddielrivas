@@ -24,6 +24,6 @@ He agregado varios usuarios con diferentes roles en la pagina web, roles como ad
 ![Logo de Markdown](/imagen7.png)
 
 # Mapa totalmente funcinal
-
+![Logo de Markdown](/imagen8.png)
 
 
