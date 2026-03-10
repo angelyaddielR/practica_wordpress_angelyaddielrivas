@@ -19,3 +19,7 @@ He agregado varios usuarios con diferentes roles en la pagina web, roles como ad
 
 # Apartados de contactos
 ![Logo de Markdown](/imagen6.png)
+
+#  Información sobre nosotros
+![Logo de Markdown](/imagen7.png)
+
